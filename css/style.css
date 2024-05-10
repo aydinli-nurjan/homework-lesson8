@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    background-color: darkblue;
+}
+
+.main{
+    width: 100%;
+    min-height: 848px;
+}
+
+.navbar{
+    width: inherit;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 110px;
+    /* background: red; */
+}
+
+.bn{
+    margin-left: 200px;
+    margin-right: 80px;
+    width: 180px;
+    height: 60px;
+    float: left;
+    /* background-color: aqua; */
+
+}
+
+.words4{
+    width: 80px;
+    height: 60px;
+    /* background-color: brown; */
+    float: left;
+}
+
+.login{
+    width: 80px;
+    height: 60px;
+    /* background-color: brown; */
+    margin-left: 220px;
+    float: left;
+}
+
+.join{
+    width: 150px;
+    height: 60px;
+    background-color: lightskyblue;
+    color: white;
+    float: left;
+    border-radius: 5px;
+}
+
+.center{
+    width: inherit;
+    min-height: 450px;
+    /* background-color: blueviolet; */
+    margin-bottom: 20px;
+}
+
+.welcome{
+    width: inherit;
+    height: 30px;
+    /* background-color: black; */
+    float: left;
+    margin-bottom: 28px;
+}
+
+.text{
+    width: inherit;
+    height: 160px;
+    /* background-color: aquamarine; */
+    float: left;
+    color: white;
+}
+
+.sel{
+    width: inherit;
+    height: 80px;
+    /* background-color: blue; */
+    float: left;
+}
+
+.undertext{
+    width: inherit;
+    height: 60px;
+    /* background-color: green; */
+    margin-top: 40px;
+    margin-bottom: 40px;
+    float: left;
+}
+
+.we{
+    width: inherit;
+    height: 30px;
+    /* background-color: bisque; */
+    float: left;
+}
+
+.divs{
+    width: inherit;
+    height: 50px;
+    /* background-color: yellow; */
+    float: left;
+}
+
+.div1{
+    width: 185px;
+    height: 50px;
+    background-color: skyblue;
+    float: left;
+    margin-left: 540px;
+    margin-right: 10px;
+    border-radius: 6px;
+    color: white;
+}
+
+.div2{
+    width: 155px;
+    height: 46px;
+    background-color: transparent;
+    border-radius: 6px;
+    border: 2px solid skyblue;
+    float: left;
+    color: skyblue !important;
+}
+
+.foot{
+    width: inherit;
+    height: 400px;
+    /* background-color: black; */
+    float: left;
+}
+
+.foot1{
+    width: 330px;
+    height: 280px;
+    background-color: white;
+    float: left;
+    margin-right: 30px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.smile{
+    width: 65px;
+    height: 70px;
+    background-color: black;
+    float: left;
+    border-radius: 6px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.indeference{
+    width: 330px;
+    height: 280px;
+    background-color: skyblue;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.fa-smile-o{
+    font-size: 40px;
+    float: left;
+    color: green;
+}
+
+.fa-frown-o{
+    font-size: 40px;
+    float: left;
+    color: red;
+}
+
+.fa-meh-o{
+    font-size: 40px;
+    float: left;
+    color: red;
+}
+
+.disFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
